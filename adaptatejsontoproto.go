@@ -1,5 +1,5 @@
 package adaptatejsontoproto
 
 func T() string {
-	return "fuck you"
+	return "fuck you4"
 }
